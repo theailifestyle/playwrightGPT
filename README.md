@@ -7,8 +7,8 @@ update API keys as necessary
 
 for non langchain version:
 go to terminal and run
-streamlit run appfns.py
+'streamlit run appfns.py'
 
 for langchain version
 go to terminal and run
-streamlit run app.py
+'streamlit run app.py'
